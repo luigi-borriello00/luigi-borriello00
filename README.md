@@ -6,19 +6,7 @@
 <div align="center">
 
 You have finally discovered my Github profile. <br>
-Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-Ask me anything<a href="luigi.borriello2@studio.unibo.it">.
 
-<i>Happy Coding!</i> 😊
-
-</div>
-
-</br>
-<div align="center"
-![chrome offline game cast](assets/screenshot.gif)
----
-
-</div>
 
  ● [🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​](https://www.instagram.com/luigi.borriello_/)
 
