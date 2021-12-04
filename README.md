@@ -7,8 +7,7 @@
 
 You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-Ask me anything <a href="https://github.com/ABSphreak/ABSphreak/issues/new"><b>here</b></a><br>
-or <a href="mailto:absphreak@outlook.com"><b>email</b></a> me
+Ask me anything<a href="luigi.borriello2@studio.unibo.it">.
 
 <i>Happy Coding!</i> 😊
 
@@ -21,7 +20,7 @@ or <a href="mailto:absphreak@outlook.com"><b>email</b></a> me
 
 </div>
 
-<!-- ● [🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​](https://www.instagram.com/luigi.borriello_/) -->
+ ● [🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​](https://www.instagram.com/luigi.borriello_/)
 
 <!--
 **ABSphreak/ABSphreak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
