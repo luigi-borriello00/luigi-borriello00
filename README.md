@@ -6,6 +6,7 @@
 ## ☢ My Activities
 
 - 🔭 Currently studying **Engineering and Computer Science @ Università di Bologna**
+- 🔭 Currently taking part in the Cyberchallenge 2022
 
 ## 💣 My Skills
 
