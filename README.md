@@ -14,7 +14,7 @@
   <b> 💻 Operating Systems </b> <br> 
   <p>
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img alt="Windows" src="https://img.shields.io/badge/-Winzoz-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img alt="Windows" src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   </p>
   
   <b> 💻 Programming Languages </b> <br>
