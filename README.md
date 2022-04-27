@@ -27,7 +27,7 @@
     <img alt="JS" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
     <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />  
     <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-092E20?style=for-the-badge&logo=android&logoColor=white&color=green" />
+    <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-092E20?style=for-the-badge&logo=android&logoColor=black&color=green" />
   </p>
   
   <b> 🔮 Frameworks </b> <br>
