@@ -19,6 +19,7 @@
   
   <b> 💻 Programming Languages </b> <br>
   <p>
+    <img alt="Bash" src="https://img.shields.io/badge/-Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=white" />
     <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
     <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow" />
     <img alt="CS" src="https://img.shields.io/badge/-C %23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
