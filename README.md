@@ -10,9 +10,12 @@
 
 ## 🌱 Currently learning :
   <ul>
-    
+  <li>
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-092E20?style=for-the-badge&logo=docker&logoColor=white&color=blue" />
+  </li>
+   <li>
     <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-092E20?style=for-the-badge&logo=android&logoColor=black&color=green" />
+  </li>  
   </ul>
 
 
