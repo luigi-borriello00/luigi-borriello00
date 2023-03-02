@@ -11,7 +11,7 @@
 ## 🌱 Currently learning :
   <ul>
   <li>
-    <img alt="NodeJs" src="https://img.shields.io/badge/-NodeJS-092E20?style=for-the-badge&logo=nodejs&logoColor=green&color=white" />
+    <img alt="NodeJs" src="https://img.shields.io/badge/-NodeJS-092E20?style=for-the-badge&logo=node.js&logoColor=green&color=white" />
   </li>
   <li>
     <img alt="Scala" src="https://img.shields.io/badge/-Scala-092E20?style=for-the-badge&logo=scala&logoColor=white&color=red" />
