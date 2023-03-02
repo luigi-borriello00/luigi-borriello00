@@ -11,7 +11,12 @@
 ## 🌱 Currently learning :
   <ul>
   <li>
-    <img alt="NodeJs" src="https://img.shields.io/badge/-NodeJS-092E20?style=for-the-badge&logo=node.js&logoColor=green&color=white" />
+    <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  </li>
+
+  <li>
+    <img alt="NodeJs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+    <img alt="NPM" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
   </li>
   <li>
     <img alt="Scala" src="https://img.shields.io/badge/-Scala-092E20?style=for-the-badge&logo=scala&logoColor=white&color=red" />
@@ -40,21 +45,24 @@
   <b> 💻 Programming Languages </b> <br>
   <p>
     <img alt="Bash" src="https://img.shields.io/badge/-Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-    <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=orange&color=orange" />
-    <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow" />
-    <img alt="CS" src="https://img.shields.io/badge/-C %23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-    <img alt="C" src="https://img.shields.io/badge/-Ansi C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+    <img alt="Java" src="https://img.shields.io/badge/OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+    <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+    <img alt="CS" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+    <img alt="CPP" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+    <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
     <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=black" />
-    <img alt="JS" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
+    <img alt="JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
     <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />  
     <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img alt="Latex" src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" />
   </p>
   
   <b> 🔮 Frameworks </b> <br>
   <p>
-    <img alt="React" src="https://img.shields.io/badge/-React-092E20?style=for-the-badge&logo=react&logoColor=white&color=blue" />
-    <img alt="React Native" src="https://img.shields.io/badge/-ReactNative-092E20?style=for-the-badge&logo=react&logoColor=blue&color=white" />
+    <img alt="Conda" src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" />
     <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />  
+    <img alt="JQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+    <img alt="JUnit5" src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
   </p>
   
   <b> 💡 Other Stuff </b> <br>
