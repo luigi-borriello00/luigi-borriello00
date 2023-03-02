@@ -14,10 +14,10 @@
     <img alt="NodeJs" src="https://img.shields.io/badge/-Node-092E20?style=for-the-badge&logo=node&logoColor=green&color=white" />
   </li>
   <li>
-    <img alt="Scala" src="https://img.shields.io/badge/-Scala-092E20?style=for-the-badge&logo=scala&logoColor=white&color=white" />
+    <img alt="Scala" src="https://img.shields.io/badge/-Scala-092E20?style=for-the-badge&logo=scala&logoColor=white&color=red" />
   </li>
   <li>    
-    <img alt="MongoDB" src="https://img.shields.io/badge/-Mongo-092E20?style=for-the-badge&logo=mongo&logoColor=white&color=green" />
+    <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-092E20?style=for-the-badge&logo=mongodb&logoColor=white&color=green" />
   </li>
    <li>
     <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-092E20?style=for-the-badge&logo=android&logoColor=black&color=green" />
@@ -34,7 +34,7 @@
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img alt="Pop%21_OS" src="https://img.shields.io/badge/-Pop%21_OS-FCC624?style=for-the-badge&logo=pop!_os&logoColor=black" />
   <img alt="Elementary OS" src="https://img.shields.io/badge/-Elementary-64BAFF?style=for-the-badge&logo=elementary&logoColor=black" />
-  <img alt="MacOs" src="https://img.shields.io/badge/-MacOs-64BAFF?style=for-the-badge&logo=macos&logoColor=purple&color=white" />
+  <img alt="MacOs" src="https://img.shields.io/badge/-MacOs-64BAFF?style=for-the-badge&logo=macos&logoColor=white&color=purple" />
   </p>
   
   <b> 💻 Programming Languages </b> <br>
