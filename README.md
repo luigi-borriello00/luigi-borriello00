@@ -17,7 +17,7 @@
     <img alt="Scala" src="https://img.shields.io/badge/-Scala-092E20?style=for-the-badge&logo=scala&logoColor=white&color=red" />
   </li>
   <li>    
-    <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-092E20?style=for-the-badge&logo=mongodb&logoColor=white&color=green" />
+    <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-092E20?style=for-the-badge&logo=mongodb&logoColor=white&color=green "/>
   </li>
    <li>
     <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-092E20?style=for-the-badge&logo=android&logoColor=black&color=green" />
