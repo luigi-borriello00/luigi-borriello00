@@ -29,12 +29,12 @@
 
   
   <b> 💻 Operating Systems </b> <br> 
-  <p>
+  <p> 
+  <img alt="MacOs" src="https://img.shields.io/badge/-MacOs-64BAFF?style=for-the-badge&logo=macos&logoColor=white&color=purple" />
   <img alt="Windows" src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img alt="Pop%21_OS" src="https://img.shields.io/badge/-Pop%21_OS-FCC624?style=for-the-badge&logo=pop!_os&logoColor=black" />
   <img alt="Elementary OS" src="https://img.shields.io/badge/-Elementary-64BAFF?style=for-the-badge&logo=elementary&logoColor=black" />
-  <img alt="MacOs" src="https://img.shields.io/badge/-MacOs-64BAFF?style=for-the-badge&logo=macos&logoColor=white&color=purple" />
   </p>
   
   <b> 💻 Programming Languages </b> <br>
