@@ -10,6 +10,9 @@
 
 ## 🌱 Currently learning :
   <ul>
+    <li>
+      <img alt="Gradle" src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
+    </li>
    <li>
     <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-092E20?style=for-the-badge&logo=android&logoColor=black&color=green" />
   </li>  
@@ -45,9 +48,10 @@
     <img alt="Latex" src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" />
   </p>
   
-  <b> 🔮 Frameworks </b> <br>
+  <b> 🔮 Frameworks & Library </b> <br>
   <p>
     <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img alt="Express JS" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" />
     <img alt="Conda" src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" />
     <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />  
     <img alt="JQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
