@@ -3,7 +3,7 @@
 ----
 ---
 
-## ☢ About Me
+## 👨🏻‍💻 About Me
 
 - 🎓 Graduated **Computer Science and Engineering @ Università di Bologna**
 - 🔭 Currently studying the Master Degree of **Computer Science and Engineering @ Università di Bologna**
