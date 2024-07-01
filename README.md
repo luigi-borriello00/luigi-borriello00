@@ -10,12 +10,7 @@
 
 ## 🌱 Currently learning :
   <ul>
-    <li>
-      <img alt="Gradle" src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
-    </li>
-   <li>
-    <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-092E20?style=for-the-badge&logo=android&logoColor=black&color=green" />
-  </li>  
+    
   </ul>
 
 
@@ -33,7 +28,8 @@
   </p>
   
   <b> 💻 Programming Languages </b> <br>
-  <p>
+  <p> 
+    <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-092E20?style=for-the-badge&logo=android&logoColor=black&color=green" />
     <img alt="Scala" src="https://img.shields.io/badge/-Scala-092E20?style=for-the-badge&logo=scala&logoColor=white&color=red" />
     <img alt="Bash" src="https://img.shields.io/badge/-Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=white" />
     <img alt="Java" src="https://img.shields.io/badge/OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -68,6 +64,7 @@
     <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />  
     <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
     <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+    <img alt="Gradle" src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
   </p>
 
 
